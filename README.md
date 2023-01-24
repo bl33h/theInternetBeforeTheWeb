@@ -21,3 +21,10 @@ Hello World!
 </p>
 </details>
 
+<details><summary>Search and choose in the usenet an interesting post</summary>
+<p>
+Subject: mi and virtual functions/ambiguity
+
+![image (4)](https://user-images.githubusercontent.com/84192821/214430714-d29efa16-1659-4187-b740-ac452e417274.png)
+</p>
+</details>
