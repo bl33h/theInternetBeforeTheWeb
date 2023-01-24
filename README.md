@@ -28,3 +28,33 @@ Subject: mi and virtual functions/ambiguity
 ![image (4)](https://user-images.githubusercontent.com/84192821/214430714-d29efa16-1659-4187-b740-ac452e417274.png)
 </p>
 </details>
+
+<details><summary>Copy the title, the publication date and the first paragraph of two of the following historical rfc:</summary>
+<p>
+  
+- 318
+![1a](https://user-images.githubusercontent.com/84192821/214432339-0179a799-ecbb-40c4-b1bf-1888372cbabb.png)
+  
+- 675
+![1b](https://user-images.githubusercontent.com/84192821/214432675-42322a8e-d711-41c0-ba81-f9d6d7591d6b.png)
+
+- 791
+![1c](https://user-images.githubusercontent.com/84192821/214433070-47dc593b-5d91-45ae-ba85-e6cbaebe686d.png)
+
+- 793
+![1d](https://user-images.githubusercontent.com/84192821/214433122-3258fad3-7242-484f-a7eb-fa1bf0e0a72c.png)
+
+- 819
+![1e](https://user-images.githubusercontent.com/84192821/214433363-2c1f9cbd-70c3-4854-96be-78bc9b32f7be.png)
+
+- 1034
+![1f](https://user-images.githubusercontent.com/84192821/214433431-7a460fe9-9659-4362-b899-f85aadb44304.png)
+
+- 1855
+![1g](https://user-images.githubusercontent.com/84192821/214433728-bf965ba7-aa6c-490c-9a46-496f639f2414.png)
+
+- 2324
+![1h](https://user-images.githubusercontent.com/84192821/214433800-30b3635e-cc39-4069-89a3-9d643c120c90.png)
+
+</p>
+</details>
