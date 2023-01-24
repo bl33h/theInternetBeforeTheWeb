@@ -58,3 +58,12 @@ Subject: mi and virtual functions/ambiguity
 
 </p>
 </details>
+
+<details><summary>Translate "ye shall be as gods" in Morse code</summary>
+<p>
+
+![unnamed](https://user-images.githubusercontent.com/84192821/214435498-4e544add-2835-4b62-94c3-6f97311ac3e4.png)
+  
+</p>
+</details>
+
