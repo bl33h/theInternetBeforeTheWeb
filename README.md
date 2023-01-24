@@ -67,3 +67,10 @@ Subject: mi and virtual functions/ambiguity
 </p>
 </details>
 
+<details><summary>Generate a qr code (ascii) for the phrase: "May the command line live forever"</summary>
+<p>
+  
+![unnamed (1)](https://user-images.githubusercontent.com/84192821/214436062-1a4caa95-81d7-4117-9672-b40b5e77c1c1.png)
+
+</p>
+</details>
