@@ -74,3 +74,12 @@ Subject: mi and virtual functions/ambiguity
 
 </p>
 </details>
+
+<details><summary>In star wars (ascii) what character is used to make Leia's hair?</summary>
+<p>
+The characters are "@", "`", "=" y "("
+  
+![image (5)](https://user-images.githubusercontent.com/84192821/214436684-75100662-9f2b-4f1e-bf7d-9962d6780392.png)
+
+</p>
+</details>
