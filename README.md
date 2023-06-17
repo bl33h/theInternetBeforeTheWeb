@@ -1,4 +1,12 @@
 # The internet before the web - Telehack.com
+Brief experience on how the internet worked before the popularization of the World Wide Web.
+
+<p align="center">
+  <br>
+  <img src="https://i.imgur.com/VUccjob.png alt="pic" width="500">
+  <br>
+</p>
+
 <details><summary>What's up the stairs inside the house in Zork?</summary>
 <p>
 Attic
